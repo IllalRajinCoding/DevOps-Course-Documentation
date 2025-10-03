@@ -171,3 +171,5 @@ atau
 ```
 http://[IP_ADDRESS]/moodle
 ```
+
+Jika butuh downgrade
