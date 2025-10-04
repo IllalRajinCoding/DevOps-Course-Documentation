@@ -1,4 +1,4 @@
-# Downgrade PHP Version untuk Moodle
+# Setting PHP Version untuk Moodle
 
 Moodle memerlukan PHP versi 8.0. Berikut cara downgrade dari PHP 8.3 ke PHP 8.0.
 
