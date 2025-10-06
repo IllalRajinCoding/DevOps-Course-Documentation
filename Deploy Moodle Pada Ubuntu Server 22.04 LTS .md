@@ -172,4 +172,4 @@ atau
 http://[IP_ADDRESS]/moodle
 ```
 
-Jika butuh downgrade [Downgrade PHP Version untuk Moodle](./Downgrade-Version-On-PHP.md)
+Jika butuh downgrade [Downgrade PHP Version untuk Moodle](./Setting-Your-Version-On-PHP.md)
